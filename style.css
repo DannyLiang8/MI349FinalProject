@@ -75,7 +75,6 @@ span{
     left: 0;
     bottom: 0;
     z-index: -1;
-    transition: 0.5s;
 }
 
 .words{
@@ -101,4 +100,12 @@ span{
 
 .words section h2 {
     margin: 25px;
+}
+
+.words{
+    line-height: 25px;
+}
+
+.form{
+    margin-left: 25px;
 }
