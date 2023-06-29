@@ -108,4 +108,16 @@ span{
 
 .form{
     margin-left: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.comment{
+    width: auto;
+    outline: none;
+    padding: auto;
+}
+
+.send{
+    padding-left: 15px;
 }
